@@ -1,2 +1,2 @@
 # SolarWinds
-This repo will be dedicated to SolarWinds custom scripting and to automate network monitoring stuffs.
+This repo will be dedicated to SolarWinds custom scripting using SDK and automating monitoring operations.
